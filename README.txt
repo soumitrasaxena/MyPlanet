@@ -1,1 +1,1 @@
-Terrain Generation in OpenGL using a Heightmap.
+Planet generation in OpenGL
